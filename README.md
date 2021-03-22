@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dima @murmachyov
+- 👋 Hi, my name is Dima @murmachyov
 - 👀 I’m interested in Swift, macOS, iOS.
 - 🌱 I’m currently learning to be software engineer. 
 
