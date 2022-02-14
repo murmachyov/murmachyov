@@ -1,6 +1,4 @@
-- 👋 Hi, my name is Dima @murmachyov
-- 👀 I’m interested in Swift, macOS, iOS.
-- 🌱 I’m currently learning to be software engineer. 
+- 👋 Hi, my name is Dima @murmachyov. 
 
 <!---
 murmachyov/murmachyov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
